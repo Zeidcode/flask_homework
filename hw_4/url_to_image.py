@@ -55,4 +55,4 @@ if __name__ == '__main__':
     no, *urls = res
     asyncio.run(main(urls))
 # в терминале:
-# python zad_9.py https://www.tretyakovgallery.ru/upload/iblock/f2b/x97hpj8ydmqembq3ihtaw9kpvi4fefmj.jpg https://www.tretyakovgallery.ru/upload/iblock/720/44hcp5lmiujrdmg99nz7upr12kqvzbwq.jpg https://www.tretyakovgallery.ru/upload/iblock/ef1/cm3zgwi767sqpknbrtcn6ajor3qsketn.jpg
+# python url_to_image.py https://www.tretyakovgallery.ru/upload/iblock/f2b/x97hpj8ydmqembq3ihtaw9kpvi4fefmj.jpg https://www.tretyakovgallery.ru/upload/iblock/720/44hcp5lmiujrdmg99nz7upr12kqvzbwq.jpg https://www.tretyakovgallery.ru/upload/iblock/ef1/cm3zgwi767sqpknbrtcn6ajor3qsketn.jpg
